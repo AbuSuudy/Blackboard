@@ -1,0 +1,30 @@
+﻿@model Blackboard.Models.Announcement
+@{
+    ViewBag.Title = "Index";
+}
+<link href="~/Content/Home.css" rel="stylesheet" />
+<div id="create">
+
+    <h2 id="titleMain">Announcements</h2>
+
+@if (User.IsInRole("Lecturer"))
+{
+    <p>
+            @Html.ActionLink("Create announcement", "Create")
+
+        
+       
+    </p>
+}
+</div>
+
+
+
+<div id="tableDiv"></div>
+
+@section Scripts
+{
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="~/Custom_Scripts/BuildTable.js"></script>
+    @Scripts.Render("~/bundles/jqueryval")
+}

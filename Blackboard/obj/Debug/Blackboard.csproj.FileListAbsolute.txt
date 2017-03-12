@@ -1,0 +1,1327 @@
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\ApplicationInsights.config
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\roslyn\csc.exe
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\roslyn\vbc.exe
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Blackboard.dll.config
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Blackboard.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Blackboard.pdb
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Antlr3.Runtime.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\EntityFramework.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\EntityFramework.SqlServer.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AI.Web.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Newtonsoft.Json.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Owin.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\System.Web.Helpers.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\System.Web.Mvc.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\System.Web.Optimization.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\System.Web.Razor.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\System.Web.WebPages.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\WebGrease.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AI.Web.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\System.Web.Helpers.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\System.Web.Mvc.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\System.Web.Optimization.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\System.Web.Razor.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\System.Web.WebPages.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Antlr3.Runtime.pdb
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Newtonsoft.Json.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\EntityFramework.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\EntityFramework.SqlServer.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.csprojResolveAssemblyReference.cache
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.dll
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.pdb
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Announcement1.resources
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.csproj.GenerateResource.Cache
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard2.resources
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard3.resources
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\ApplicationInsights.config
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\roslyn\csc.exe
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\roslyn\vbc.exe
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Blackboard.dll.config
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Blackboard.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Blackboard.pdb
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Antlr3.Runtime.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\EntityFramework.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\EntityFramework.SqlServer.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AI.Web.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Newtonsoft.Json.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Owin.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\System.Web.Helpers.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\System.Web.Mvc.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\System.Web.Optimization.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\System.Web.Razor.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\System.Web.WebPages.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\WebGrease.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AI.Web.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\System.Web.Helpers.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\System.Web.Mvc.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\System.Web.Optimization.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\System.Web.Razor.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\System.Web.WebPages.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Antlr3.Runtime.pdb
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Newtonsoft.Json.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\EntityFramework.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\EntityFramework.SqlServer.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.csprojResolveAssemblyReference.cache
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Announcement1.resources
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard2.resources
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard3.resources
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.csproj.GenerateResource.Cache
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.dll
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.pdb
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard4.resources
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard5.resources
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard6.resources
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard4.resources
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard5.resources
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard6.resources
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\ApplicationInsights.config
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\roslyn\csc.exe
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\roslyn\vbc.exe
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Blackboard.dll.config
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Blackboard.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Blackboard.pdb
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Antlr3.Runtime.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\EntityFramework.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\EntityFramework.SqlServer.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.AI.Web.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.Owin.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.Owin.Security.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Newtonsoft.Json.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Owin.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\System.Web.Helpers.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\System.Web.Mvc.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\System.Web.Optimization.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\System.Web.Razor.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\System.Web.WebPages.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\WebGrease.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.AI.Web.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\System.Web.Helpers.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\System.Web.Mvc.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\System.Web.Optimization.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\System.Web.Razor.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\System.Web.WebPages.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Antlr3.Runtime.pdb
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Newtonsoft.Json.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\EntityFramework.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\EntityFramework.SqlServer.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.Owin.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.Owin.Security.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\obj\Debug\Blackboard.csprojResolveAssemblyReference.cache
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Announcement1.resources
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard2.resources
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard3.resources
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard4.resources
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard5.resources
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard6.resources
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\obj\Debug\Blackboard.csproj.GenerateResource.Cache
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\obj\Debug\Blackboard.dll
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\obj\Debug\Blackboard.pdb
+C:\Users\Fresh\Desktop\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard7.resources
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\ApplicationInsights.config
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\roslyn\csc.exe
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\roslyn\vbc.exe
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Blackboard.dll.config
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Blackboard.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Blackboard.pdb
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Antlr3.Runtime.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\EntityFramework.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\EntityFramework.SqlServer.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.Web.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Newtonsoft.Json.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Owin.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\System.Web.Helpers.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\System.Web.Mvc.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\System.Web.Optimization.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\System.Web.Razor.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\System.Web.WebPages.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\WebGrease.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.Web.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\System.Web.Helpers.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\System.Web.Mvc.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\System.Web.Optimization.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\System.Web.Razor.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\System.Web.WebPages.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Antlr3.Runtime.pdb
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Newtonsoft.Json.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\EntityFramework.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\EntityFramework.SqlServer.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Announcement1.resources
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard2.resources
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard3.resources
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard4.resources
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard5.resources
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard6.resources
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard7.resources
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.comments2.resources
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.comments3.resources
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.comments4.resources
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.comments6.resources
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.csproj.GenerateResource.Cache
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.dll
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.pdb
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.commentsRIP.resources
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.commentsPLS.resources
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.csprojResolveAssemblyReference.cache
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Relationship1.resources
+C:\Users\Fresh\Desktop\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Relationship3.resources
+F:\1\Announcement\Blackboard\Blackboard\bin\ApplicationInsights.config
+F:\1\Announcement\Blackboard\Blackboard\bin\roslyn\csc.exe
+F:\1\Announcement\Blackboard\Blackboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\1\Announcement\Blackboard\Blackboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\1\Announcement\Blackboard\Blackboard\bin\roslyn\System.Collections.Immutable.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\roslyn\System.Reflection.Metadata.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\roslyn\vbc.exe
+F:\1\Announcement\Blackboard\Blackboard\bin\roslyn\VBCSCompiler.exe
+F:\1\Announcement\Blackboard\Blackboard\bin\roslyn\VBCSCompiler.exe.config
+F:\1\Announcement\Blackboard\Blackboard\bin\Blackboard.dll.config
+F:\1\Announcement\Blackboard\Blackboard\bin\Blackboard.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\Blackboard.pdb
+F:\1\Announcement\Blackboard\Blackboard\bin\Antlr3.Runtime.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\EntityFramework.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\EntityFramework.SqlServer.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.Agent.Intercept.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.DependencyCollector.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.Web.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.WindowsServer.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.ApplicationInsights.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Core.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Cookies.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Facebook.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Google.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.OAuth.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Twitter.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Web.Infrastructure.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\Newtonsoft.Json.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\Owin.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\System.Web.Helpers.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\System.Web.Mvc.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\System.Web.Optimization.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\System.Web.Razor.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\System.Web.WebPages.Deployment.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\System.Web.WebPages.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\System.Web.WebPages.Razor.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\WebGrease.dll
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.DependencyCollector.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.Web.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.WindowsServer.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.ApplicationInsights.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\System.Web.Helpers.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\System.Web.Mvc.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\System.Web.Optimization.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\System.Web.Razor.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\System.Web.WebPages.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\System.Web.WebPages.Deployment.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\System.Web.WebPages.Razor.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\Antlr3.Runtime.pdb
+F:\1\Announcement\Blackboard\Blackboard\bin\Newtonsoft.Json.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\EntityFramework.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\EntityFramework.SqlServer.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Core.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Facebook.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Cookies.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.OAuth.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Google.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Twitter.xml
+F:\1\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.csprojResolveAssemblyReference.cache
+F:\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Announcement1.resources
+F:\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard2.resources
+F:\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard3.resources
+F:\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard4.resources
+F:\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard5.resources
+F:\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard6.resources
+F:\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard7.resources
+F:\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.comments2.resources
+F:\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.comments3.resources
+F:\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.comments4.resources
+F:\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.comments6.resources
+F:\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.commentsRIP.resources
+F:\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.commentsPLS.resources
+F:\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Relationship1.resources
+F:\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Relationship3.resources
+F:\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.csproj.GenerateResource.Cache
+F:\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.dll
+F:\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.pdb
+F:\1\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.rest.resources
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\ApplicationInsights.config
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\roslyn\csc.exe
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\roslyn\vbc.exe
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Blackboard.dll.config
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Blackboard.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Blackboard.pdb
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Antlr3.Runtime.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\EntityFramework.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\EntityFramework.SqlServer.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.Web.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Newtonsoft.Json.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Owin.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.Helpers.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.Mvc.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.Optimization.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.Razor.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.WebPages.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\WebGrease.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.Web.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.Helpers.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.Mvc.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.Optimization.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.Razor.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.WebPages.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Antlr3.Runtime.pdb
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Newtonsoft.Json.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\EntityFramework.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\EntityFramework.SqlServer.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.csprojResolveAssemblyReference.cache
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Announcement1.resources
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard2.resources
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard3.resources
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard4.resources
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard5.resources
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard6.resources
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard7.resources
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.comments2.resources
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.comments3.resources
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.comments4.resources
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.comments6.resources
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.commentsRIP.resources
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.commentsPLS.resources
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Relationship1.resources
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Relationship3.resources
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.rest.resources
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.csproj.GenerateResource.Cache
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.dll
+C:\Users\Fresh\Desktop\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.pdb
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\ApplicationInsights.config
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\roslyn\csc.exe
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\roslyn\vbc.exe
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Blackboard.dll.config
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Blackboard.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Blackboard.pdb
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Antlr3.Runtime.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\EntityFramework.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\EntityFramework.SqlServer.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.Web.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Newtonsoft.Json.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Owin.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.Helpers.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.Mvc.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.Optimization.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.Razor.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.WebPages.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\WebGrease.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.Web.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.Helpers.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.Mvc.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.Optimization.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.Razor.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.WebPages.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Antlr3.Runtime.pdb
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Newtonsoft.Json.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\EntityFramework.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\EntityFramework.SqlServer.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.csprojResolveAssemblyReference.cache
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Announcement1.resources
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard2.resources
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard3.resources
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard4.resources
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard5.resources
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard6.resources
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard7.resources
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.comments2.resources
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.comments3.resources
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.comments4.resources
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.comments6.resources
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.commentsRIP.resources
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.commentsPLS.resources
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Relationship1.resources
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Relationship3.resources
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.rest.resources
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.csproj.GenerateResource.Cache
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.dll
+C:\Users\Abubakar\Desktop\latest\Comments Pending\Announcement\Blackboard\Blackboard\obj\Debug\Blackboard.pdb
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\ApplicationInsights.config
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\roslyn\csc.exe
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\roslyn\vbc.exe
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Blackboard.dll.config
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Blackboard.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Blackboard.pdb
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Antlr3.Runtime.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\EntityFramework.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\EntityFramework.SqlServer.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.AI.Web.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.Owin.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.Owin.Security.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Newtonsoft.Json.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Owin.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\System.Web.Helpers.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\System.Web.Mvc.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\System.Web.Optimization.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\System.Web.Razor.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\System.Web.WebPages.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\WebGrease.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.AI.Web.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\System.Web.Helpers.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\System.Web.Mvc.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\System.Web.Optimization.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\System.Web.Razor.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\System.Web.WebPages.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Antlr3.Runtime.pdb
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Newtonsoft.Json.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\EntityFramework.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\EntityFramework.SqlServer.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.Owin.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.Owin.Security.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Fresh\Desktop\latest2\Blackboard\obj\Debug\Blackboard.Migrations.Announcement1.resources
+C:\Users\Fresh\Desktop\latest2\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard2.resources
+C:\Users\Fresh\Desktop\latest2\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard3.resources
+C:\Users\Fresh\Desktop\latest2\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard4.resources
+C:\Users\Fresh\Desktop\latest2\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard5.resources
+C:\Users\Fresh\Desktop\latest2\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard6.resources
+C:\Users\Fresh\Desktop\latest2\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard7.resources
+C:\Users\Fresh\Desktop\latest2\Blackboard\obj\Debug\Blackboard.Migrations.comments2.resources
+C:\Users\Fresh\Desktop\latest2\Blackboard\obj\Debug\Blackboard.Migrations.comments3.resources
+C:\Users\Fresh\Desktop\latest2\Blackboard\obj\Debug\Blackboard.Migrations.comments4.resources
+C:\Users\Fresh\Desktop\latest2\Blackboard\obj\Debug\Blackboard.Migrations.comments6.resources
+C:\Users\Fresh\Desktop\latest2\Blackboard\obj\Debug\Blackboard.Migrations.commentsRIP.resources
+C:\Users\Fresh\Desktop\latest2\Blackboard\obj\Debug\Blackboard.Migrations.commentsPLS.resources
+C:\Users\Fresh\Desktop\latest2\Blackboard\obj\Debug\Blackboard.Migrations.Relationship1.resources
+C:\Users\Fresh\Desktop\latest2\Blackboard\obj\Debug\Blackboard.Migrations.Relationship3.resources
+C:\Users\Fresh\Desktop\latest2\Blackboard\obj\Debug\Blackboard.Migrations.rest.resources
+C:\Users\Fresh\Desktop\latest2\Blackboard\obj\Debug\Blackboard.csproj.GenerateResource.Cache
+C:\Users\Fresh\Desktop\latest2\Blackboard\obj\Debug\Blackboard.dll
+C:\Users\Fresh\Desktop\latest2\Blackboard\obj\Debug\Blackboard.pdb
+C:\Users\Fresh\Desktop\latest2\Blackboard\obj\Debug\Blackboard.csprojResolveAssemblyReference.cache
+C:\Users\Fresh\Desktop\latest2\Blackboard\obj\Debug\Blackboard.Migrations.commentspls2.resources
+C:\Users\Fresh\Desktop\latest2\Blackboard\obj\Debug\Blackboard.Migrations.commentspls3.resources
+C:\Users\Fresh\Desktop\latest2\Blackboard\obj\Debug\Blackboard.Migrations.commentspls4.resources
+E:\latest2\Blackboard\bin\ApplicationInsights.config
+E:\latest2\Blackboard\bin\roslyn\csc.exe
+E:\latest2\Blackboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\latest2\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\latest2\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\latest2\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\latest2\Blackboard\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\latest2\Blackboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\latest2\Blackboard\bin\roslyn\System.Collections.Immutable.dll
+E:\latest2\Blackboard\bin\roslyn\System.Reflection.Metadata.dll
+E:\latest2\Blackboard\bin\roslyn\vbc.exe
+E:\latest2\Blackboard\bin\roslyn\VBCSCompiler.exe
+E:\latest2\Blackboard\bin\roslyn\VBCSCompiler.exe.config
+E:\latest2\Blackboard\bin\Blackboard.dll.config
+E:\latest2\Blackboard\bin\Blackboard.dll
+E:\latest2\Blackboard\bin\Blackboard.pdb
+E:\latest2\Blackboard\bin\Antlr3.Runtime.dll
+E:\latest2\Blackboard\bin\EntityFramework.dll
+E:\latest2\Blackboard\bin\EntityFramework.SqlServer.dll
+E:\latest2\Blackboard\bin\Microsoft.AI.Agent.Intercept.dll
+E:\latest2\Blackboard\bin\Microsoft.AI.DependencyCollector.dll
+E:\latest2\Blackboard\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\latest2\Blackboard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\latest2\Blackboard\bin\Microsoft.AI.Web.dll
+E:\latest2\Blackboard\bin\Microsoft.AI.WindowsServer.dll
+E:\latest2\Blackboard\bin\Microsoft.ApplicationInsights.dll
+E:\latest2\Blackboard\bin\Microsoft.AspNet.Identity.Core.dll
+E:\latest2\Blackboard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\latest2\Blackboard\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\latest2\Blackboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\latest2\Blackboard\bin\Microsoft.Owin.dll
+E:\latest2\Blackboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\latest2\Blackboard\bin\Microsoft.Owin.Security.Cookies.dll
+E:\latest2\Blackboard\bin\Microsoft.Owin.Security.dll
+E:\latest2\Blackboard\bin\Microsoft.Owin.Security.Facebook.dll
+E:\latest2\Blackboard\bin\Microsoft.Owin.Security.Google.dll
+E:\latest2\Blackboard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\latest2\Blackboard\bin\Microsoft.Owin.Security.OAuth.dll
+E:\latest2\Blackboard\bin\Microsoft.Owin.Security.Twitter.dll
+E:\latest2\Blackboard\bin\Microsoft.Web.Infrastructure.dll
+E:\latest2\Blackboard\bin\Newtonsoft.Json.dll
+E:\latest2\Blackboard\bin\Owin.dll
+E:\latest2\Blackboard\bin\System.Web.Helpers.dll
+E:\latest2\Blackboard\bin\System.Web.Mvc.dll
+E:\latest2\Blackboard\bin\System.Web.Optimization.dll
+E:\latest2\Blackboard\bin\System.Web.Razor.dll
+E:\latest2\Blackboard\bin\System.Web.WebPages.Deployment.dll
+E:\latest2\Blackboard\bin\System.Web.WebPages.dll
+E:\latest2\Blackboard\bin\System.Web.WebPages.Razor.dll
+E:\latest2\Blackboard\bin\WebGrease.dll
+E:\latest2\Blackboard\bin\Microsoft.AI.DependencyCollector.xml
+E:\latest2\Blackboard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\latest2\Blackboard\bin\Microsoft.AI.Web.xml
+E:\latest2\Blackboard\bin\Microsoft.AI.WindowsServer.xml
+E:\latest2\Blackboard\bin\Microsoft.ApplicationInsights.xml
+E:\latest2\Blackboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\latest2\Blackboard\bin\System.Web.Helpers.xml
+E:\latest2\Blackboard\bin\System.Web.Mvc.xml
+E:\latest2\Blackboard\bin\System.Web.Optimization.xml
+E:\latest2\Blackboard\bin\System.Web.Razor.xml
+E:\latest2\Blackboard\bin\System.Web.WebPages.xml
+E:\latest2\Blackboard\bin\System.Web.WebPages.Deployment.xml
+E:\latest2\Blackboard\bin\System.Web.WebPages.Razor.xml
+E:\latest2\Blackboard\bin\Antlr3.Runtime.pdb
+E:\latest2\Blackboard\bin\Newtonsoft.Json.xml
+E:\latest2\Blackboard\bin\EntityFramework.xml
+E:\latest2\Blackboard\bin\EntityFramework.SqlServer.xml
+E:\latest2\Blackboard\bin\Microsoft.AspNet.Identity.Core.xml
+E:\latest2\Blackboard\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\latest2\Blackboard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\latest2\Blackboard\bin\Microsoft.Owin.xml
+E:\latest2\Blackboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\latest2\Blackboard\bin\Microsoft.Owin.Security.xml
+E:\latest2\Blackboard\bin\Microsoft.Owin.Security.Facebook.xml
+E:\latest2\Blackboard\bin\Microsoft.Owin.Security.Cookies.xml
+E:\latest2\Blackboard\bin\Microsoft.Owin.Security.OAuth.xml
+E:\latest2\Blackboard\bin\Microsoft.Owin.Security.Google.xml
+E:\latest2\Blackboard\bin\Microsoft.Owin.Security.Twitter.xml
+E:\latest2\Blackboard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\latest2\Blackboard\obj\Debug\Blackboard.csprojResolveAssemblyReference.cache
+E:\latest2\Blackboard\obj\Debug\Blackboard.Migrations.Announcement1.resources
+E:\latest2\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard2.resources
+E:\latest2\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard3.resources
+E:\latest2\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard4.resources
+E:\latest2\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard5.resources
+E:\latest2\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard6.resources
+E:\latest2\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard7.resources
+E:\latest2\Blackboard\obj\Debug\Blackboard.Migrations.comments2.resources
+E:\latest2\Blackboard\obj\Debug\Blackboard.Migrations.comments3.resources
+E:\latest2\Blackboard\obj\Debug\Blackboard.Migrations.comments4.resources
+E:\latest2\Blackboard\obj\Debug\Blackboard.Migrations.comments6.resources
+E:\latest2\Blackboard\obj\Debug\Blackboard.Migrations.commentsRIP.resources
+E:\latest2\Blackboard\obj\Debug\Blackboard.Migrations.commentsPLS.resources
+E:\latest2\Blackboard\obj\Debug\Blackboard.Migrations.Relationship1.resources
+E:\latest2\Blackboard\obj\Debug\Blackboard.Migrations.Relationship3.resources
+E:\latest2\Blackboard\obj\Debug\Blackboard.Migrations.rest.resources
+E:\latest2\Blackboard\obj\Debug\Blackboard.Migrations.commentspls2.resources
+E:\latest2\Blackboard\obj\Debug\Blackboard.Migrations.commentspls3.resources
+E:\latest2\Blackboard\obj\Debug\Blackboard.Migrations.commentspls4.resources
+E:\latest2\Blackboard\obj\Debug\Blackboard.csproj.GenerateResource.Cache
+E:\latest2\Blackboard\obj\Debug\Blackboard.dll
+E:\latest2\Blackboard\obj\Debug\Blackboard.pdb
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\ApplicationInsights.config
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\roslyn\csc.exe
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\roslyn\vbc.exe
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Blackboard.dll.config
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Blackboard.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Blackboard.pdb
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Antlr3.Runtime.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\EntityFramework.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\EntityFramework.SqlServer.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.AI.Web.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.Owin.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.Owin.Security.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Newtonsoft.Json.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Owin.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\System.Web.Helpers.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\System.Web.Mvc.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\System.Web.Optimization.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\System.Web.Razor.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\System.Web.WebPages.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\WebGrease.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.AI.Web.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\System.Web.Helpers.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\System.Web.Mvc.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\System.Web.Optimization.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\System.Web.Razor.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\System.Web.WebPages.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Antlr3.Runtime.pdb
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Newtonsoft.Json.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\EntityFramework.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\EntityFramework.SqlServer.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.Owin.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.Owin.Security.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Fresh\Desktop\Latest3\Blackboard\obj\Debug\Blackboard.csprojResolveAssemblyReference.cache
+C:\Users\Fresh\Desktop\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.Announcement1.resources
+C:\Users\Fresh\Desktop\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard2.resources
+C:\Users\Fresh\Desktop\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard3.resources
+C:\Users\Fresh\Desktop\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard4.resources
+C:\Users\Fresh\Desktop\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard5.resources
+C:\Users\Fresh\Desktop\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard6.resources
+C:\Users\Fresh\Desktop\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard7.resources
+C:\Users\Fresh\Desktop\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.comments2.resources
+C:\Users\Fresh\Desktop\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.comments3.resources
+C:\Users\Fresh\Desktop\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.comments4.resources
+C:\Users\Fresh\Desktop\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.comments6.resources
+C:\Users\Fresh\Desktop\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.commentsRIP.resources
+C:\Users\Fresh\Desktop\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.commentsPLS.resources
+C:\Users\Fresh\Desktop\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.Relationship1.resources
+C:\Users\Fresh\Desktop\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.Relationship3.resources
+C:\Users\Fresh\Desktop\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.rest.resources
+C:\Users\Fresh\Desktop\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.commentspls2.resources
+C:\Users\Fresh\Desktop\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.commentspls3.resources
+C:\Users\Fresh\Desktop\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.commentspls4.resources
+C:\Users\Fresh\Desktop\Latest3\Blackboard\obj\Debug\Blackboard.csproj.GenerateResource.Cache
+C:\Users\Fresh\Desktop\Latest3\Blackboard\obj\Debug\Blackboard.dll
+C:\Users\Fresh\Desktop\Latest3\Blackboard\obj\Debug\Blackboard.pdb
+C:\Users\Fresh\Desktop\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.userRole.resources
+C:\Users\Fresh\Desktop\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.userRole2.resources
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\ApplicationInsights.config
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\roslyn\csc.exe
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\roslyn\vbc.exe
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Blackboard.dll.config
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Blackboard.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Blackboard.pdb
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Antlr3.Runtime.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\EntityFramework.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\EntityFramework.SqlServer.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.AI.Web.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.Owin.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.Owin.Security.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Newtonsoft.Json.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Owin.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\System.Web.Helpers.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\System.Web.Mvc.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\System.Web.Optimization.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\System.Web.Razor.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\System.Web.WebPages.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\WebGrease.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.AI.Web.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\System.Web.Helpers.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\System.Web.Mvc.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\System.Web.Optimization.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\System.Web.Razor.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\System.Web.WebPages.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Antlr3.Runtime.pdb
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Newtonsoft.Json.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\EntityFramework.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\EntityFramework.SqlServer.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.Owin.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.Owin.Security.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\obj\Debug\Blackboard.csprojResolveAssemblyReference.cache
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.Announcement1.resources
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard2.resources
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard3.resources
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard4.resources
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard5.resources
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard6.resources
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard7.resources
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.comments2.resources
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.comments3.resources
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.comments4.resources
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.comments6.resources
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.commentsRIP.resources
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.commentsPLS.resources
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.Relationship1.resources
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.Relationship3.resources
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.rest.resources
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.commentspls2.resources
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.commentspls3.resources
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.commentspls4.resources
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.userRole.resources
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.userRole2.resources
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\obj\Debug\Blackboard.csproj.GenerateResource.Cache
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\obj\Debug\Blackboard.dll
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\obj\Debug\Blackboard.pdb
+C:\Users\Fresh\Desktop\Final\Latest3\Blackboard\obj\Debug\Blackboard.Migrations.syntax2.resources
+E:\css\Blackboard\bin\ApplicationInsights.config
+E:\css\Blackboard\bin\roslyn\csc.exe
+E:\css\Blackboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\css\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\css\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\css\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\css\Blackboard\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\css\Blackboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\css\Blackboard\bin\roslyn\System.Collections.Immutable.dll
+E:\css\Blackboard\bin\roslyn\System.Reflection.Metadata.dll
+E:\css\Blackboard\bin\roslyn\vbc.exe
+E:\css\Blackboard\bin\roslyn\VBCSCompiler.exe
+E:\css\Blackboard\bin\roslyn\VBCSCompiler.exe.config
+E:\css\Blackboard\bin\Blackboard.dll.config
+E:\css\Blackboard\bin\Blackboard.dll
+E:\css\Blackboard\bin\Blackboard.pdb
+E:\css\Blackboard\bin\Antlr3.Runtime.dll
+E:\css\Blackboard\bin\EntityFramework.dll
+E:\css\Blackboard\bin\EntityFramework.SqlServer.dll
+E:\css\Blackboard\bin\Microsoft.AI.Agent.Intercept.dll
+E:\css\Blackboard\bin\Microsoft.AI.DependencyCollector.dll
+E:\css\Blackboard\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\css\Blackboard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\css\Blackboard\bin\Microsoft.AI.Web.dll
+E:\css\Blackboard\bin\Microsoft.AI.WindowsServer.dll
+E:\css\Blackboard\bin\Microsoft.ApplicationInsights.dll
+E:\css\Blackboard\bin\Microsoft.AspNet.Identity.Core.dll
+E:\css\Blackboard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\css\Blackboard\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\css\Blackboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\css\Blackboard\bin\Microsoft.Owin.dll
+E:\css\Blackboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\css\Blackboard\bin\Microsoft.Owin.Security.Cookies.dll
+E:\css\Blackboard\bin\Microsoft.Owin.Security.dll
+E:\css\Blackboard\bin\Microsoft.Owin.Security.Facebook.dll
+E:\css\Blackboard\bin\Microsoft.Owin.Security.Google.dll
+E:\css\Blackboard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\css\Blackboard\bin\Microsoft.Owin.Security.OAuth.dll
+E:\css\Blackboard\bin\Microsoft.Owin.Security.Twitter.dll
+E:\css\Blackboard\bin\Microsoft.Web.Infrastructure.dll
+E:\css\Blackboard\bin\Newtonsoft.Json.dll
+E:\css\Blackboard\bin\Owin.dll
+E:\css\Blackboard\bin\System.Web.Helpers.dll
+E:\css\Blackboard\bin\System.Web.Mvc.dll
+E:\css\Blackboard\bin\System.Web.Optimization.dll
+E:\css\Blackboard\bin\System.Web.Razor.dll
+E:\css\Blackboard\bin\System.Web.WebPages.Deployment.dll
+E:\css\Blackboard\bin\System.Web.WebPages.dll
+E:\css\Blackboard\bin\System.Web.WebPages.Razor.dll
+E:\css\Blackboard\bin\WebGrease.dll
+E:\css\Blackboard\bin\Microsoft.AI.DependencyCollector.xml
+E:\css\Blackboard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\css\Blackboard\bin\Microsoft.AI.Web.xml
+E:\css\Blackboard\bin\Microsoft.AI.WindowsServer.xml
+E:\css\Blackboard\bin\Microsoft.ApplicationInsights.xml
+E:\css\Blackboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\css\Blackboard\bin\System.Web.Helpers.xml
+E:\css\Blackboard\bin\System.Web.Mvc.xml
+E:\css\Blackboard\bin\System.Web.Optimization.xml
+E:\css\Blackboard\bin\System.Web.Razor.xml
+E:\css\Blackboard\bin\System.Web.WebPages.xml
+E:\css\Blackboard\bin\System.Web.WebPages.Deployment.xml
+E:\css\Blackboard\bin\System.Web.WebPages.Razor.xml
+E:\css\Blackboard\bin\Antlr3.Runtime.pdb
+E:\css\Blackboard\bin\Newtonsoft.Json.xml
+E:\css\Blackboard\bin\EntityFramework.xml
+E:\css\Blackboard\bin\EntityFramework.SqlServer.xml
+E:\css\Blackboard\bin\Microsoft.AspNet.Identity.Core.xml
+E:\css\Blackboard\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\css\Blackboard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\css\Blackboard\bin\Microsoft.Owin.xml
+E:\css\Blackboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\css\Blackboard\bin\Microsoft.Owin.Security.xml
+E:\css\Blackboard\bin\Microsoft.Owin.Security.Facebook.xml
+E:\css\Blackboard\bin\Microsoft.Owin.Security.Cookies.xml
+E:\css\Blackboard\bin\Microsoft.Owin.Security.OAuth.xml
+E:\css\Blackboard\bin\Microsoft.Owin.Security.Google.xml
+E:\css\Blackboard\bin\Microsoft.Owin.Security.Twitter.xml
+E:\css\Blackboard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\css\Blackboard\obj\Debug\Blackboard.csprojResolveAssemblyReference.cache
+E:\css\Blackboard\obj\Debug\Blackboard.Migrations.Announcement1.resources
+E:\css\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard2.resources
+E:\css\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard3.resources
+E:\css\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard4.resources
+E:\css\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard5.resources
+E:\css\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard6.resources
+E:\css\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard7.resources
+E:\css\Blackboard\obj\Debug\Blackboard.Migrations.comments2.resources
+E:\css\Blackboard\obj\Debug\Blackboard.Migrations.comments3.resources
+E:\css\Blackboard\obj\Debug\Blackboard.Migrations.comments4.resources
+E:\css\Blackboard\obj\Debug\Blackboard.Migrations.comments6.resources
+E:\css\Blackboard\obj\Debug\Blackboard.Migrations.commentsRIP.resources
+E:\css\Blackboard\obj\Debug\Blackboard.Migrations.commentsPLS.resources
+E:\css\Blackboard\obj\Debug\Blackboard.Migrations.Relationship1.resources
+E:\css\Blackboard\obj\Debug\Blackboard.Migrations.Relationship3.resources
+E:\css\Blackboard\obj\Debug\Blackboard.Migrations.rest.resources
+E:\css\Blackboard\obj\Debug\Blackboard.Migrations.commentspls2.resources
+E:\css\Blackboard\obj\Debug\Blackboard.Migrations.commentspls3.resources
+E:\css\Blackboard\obj\Debug\Blackboard.Migrations.commentspls4.resources
+E:\css\Blackboard\obj\Debug\Blackboard.Migrations.userRole.resources
+E:\css\Blackboard\obj\Debug\Blackboard.Migrations.userRole2.resources
+E:\css\Blackboard\obj\Debug\Blackboard.Migrations.syntax2.resources
+E:\css\Blackboard\obj\Debug\Blackboard.csproj.GenerateResource.Cache
+E:\css\Blackboard\obj\Debug\Blackboard.dll
+E:\css\Blackboard\obj\Debug\Blackboard.pdb
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\ApplicationInsights.config
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\roslyn\csc.exe
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\roslyn\vbc.exe
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Blackboard.dll.config
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Blackboard.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Blackboard.pdb
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Antlr3.Runtime.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\EntityFramework.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\EntityFramework.SqlServer.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.AI.Web.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.Owin.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.Owin.Security.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Newtonsoft.Json.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Owin.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\System.Web.Helpers.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\System.Web.Mvc.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\System.Web.Optimization.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\System.Web.Razor.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\System.Web.WebPages.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\System.Web.WebPages.Razor.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\WebGrease.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.AI.Web.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\System.Web.Helpers.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\System.Web.Mvc.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\System.Web.Optimization.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\System.Web.Razor.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\System.Web.WebPages.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\System.Web.WebPages.Razor.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Antlr3.Runtime.pdb
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Newtonsoft.Json.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\EntityFramework.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\EntityFramework.SqlServer.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.Owin.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.Owin.Security.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.csprojResolveAssemblyReference.cache
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.Migrations.Announcement1.resources
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard2.resources
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard3.resources
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard4.resources
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard5.resources
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard6.resources
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard7.resources
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.Migrations.comments2.resources
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.Migrations.comments3.resources
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.Migrations.comments4.resources
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.Migrations.comments6.resources
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.Migrations.commentsRIP.resources
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.Migrations.commentsPLS.resources
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.Migrations.Relationship1.resources
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.Migrations.Relationship3.resources
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.Migrations.rest.resources
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.Migrations.commentspls2.resources
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.Migrations.commentspls3.resources
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.Migrations.commentspls4.resources
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.Migrations.userRole.resources
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.Migrations.userRole2.resources
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.Migrations.syntax2.resources
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.csproj.GenerateResource.Cache
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.dll
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.pdb
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.Migrations.commentsRequired4.resources
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.Migrations.addusers.resources
+C:\Users\ashra\Desktop\FinalCSS\Blackboard\obj\Debug\Blackboard.Migrations.addusers1.resources
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard7.resources
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.comments2.resources
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.comments3.resources
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.comments4.resources
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.comments6.resources
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.commentsRIP.resources
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.commentsPLS.resources
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Relationship1.resources
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Relationship3.resources
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.rest.resources
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.commentspls2.resources
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.commentspls3.resources
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.commentspls4.resources
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.userRole.resources
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.userRole2.resources
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.syntax2.resources
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.commentsRequired4.resources
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.addusers.resources
+C:\Users\Fresh\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.addusers1.resources
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Blackboard7.resources
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.comments2.resources
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.comments3.resources
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.comments4.resources
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.comments6.resources
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.commentsRIP.resources
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.commentsPLS.resources
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Relationship1.resources
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.Relationship3.resources
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.rest.resources
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.commentspls2.resources
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.commentspls3.resources
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.commentspls4.resources
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.userRole.resources
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.userRole2.resources
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.syntax2.resources
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.commentsRequired4.resources
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.addusers.resources
+C:\Users\Abubakar\Desktop\Github\Blackboard\Blackboard\obj\Debug\Blackboard.Migrations.addusers1.resources
